@@ -29,7 +29,7 @@
   "dependencies": {
     "sax": "^1.2.4",
     "ssf": "^0.10.2",
-    "tmp": "git://github.com/raszi/node-tmp.git#mater",
+    "tmp": "git://github.com/raszi/node-tmp.git#master",
     "unzipper": "^0.9.11"
   },
   "devDependencies": {
